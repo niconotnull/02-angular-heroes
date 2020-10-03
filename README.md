@@ -12,3 +12,9 @@
 8. Configuración de nuestro primer servicio en Angular para el manejo de la data.
 9. Breve introducción a los Pipes. 
 10. Uso del buscador del navbar para realizar una consulta a nuestro arreglo de héroes.
+
+
+### Comandos
+
+ng g c components/heroeTarjeta -is --spec=false
+
