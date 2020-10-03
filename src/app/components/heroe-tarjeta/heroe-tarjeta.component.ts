@@ -20,8 +20,6 @@ export class HeroeTarjetaComponent implements OnInit {
   }
 
   verheroeInput(){
-    // console.log(this.index);
      this.router.navigate(['/heroe', this.index]);
-    //this.hereoSeleccionado.emit(this.index);
   }
 }
